@@ -32,3 +32,4 @@ echo "To stop the system, run: docker compose down"
 EOF
 
 chmod +x setup.sh
+bash setup.sh
